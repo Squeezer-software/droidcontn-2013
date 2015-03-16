@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Droid Shooter</string>
+    <string name="start">START!</string>
+	<string name="replay">Replay</string>
+	<string name="helpText">Shoot the targets and try to get a good score</string>
+	<string name="scoreTitle">Your Score:</string>
+	<string name="targetHitTitle">Targets Hit : </string>
+	<string name="targetMissedTitle">Targets Missed :</string>
+	<string name="airBulletTitle">Air Bullets :</string>
+	<string name="totalScoreTitle">Total Score=</string>
+	<string name="timer">2:00</string>
+	<string name="control_button_left_text">&lt;</string>
+	<string name="control_button_right_text">&gt;</string>
+	<string name="control_button_fire_text">Fire</string>
+</resources>
